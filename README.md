@@ -1,5 +1,8 @@
 # LavaQuest
-School project of a 2D platformer game
+Project of a 2D platformer game
+
+
+First attempt of Unity for a little project in team.
 
 ## Screenshots :
 
